@@ -81,7 +81,7 @@ target/
 profile_default/
 ipython_config.py
 
-# pyenv
+# py
 .python-version
 
 # pipenv
@@ -103,7 +103,7 @@ celerybeat.pid
 
 # Environments
 .BabyEnv
-/BabyEnv
+BabyEnv/
 .env
 .venv
 env/
