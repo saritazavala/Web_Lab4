@@ -1,3 +1,6 @@
 from django.contrib import admin
+from .models import Event
 
-# Register your models here.
+class StatusAdmin(admin.ModelAdmin):
+    list_display = ['description','type','date','baby']
+admin.site.register(Event,StatusAdmin)
