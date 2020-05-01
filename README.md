@@ -1,7 +1,7 @@
 # Web_Lab4
 Bebes API
 ## Installation
-'''
+```
 asgiref==3.2.7
 certifi==2020.4.5.1
 chardet==3.0.4
@@ -20,4 +20,4 @@ pytz==2019.3
 requests==2.23.0
 sqlparse==0.3.1
 urllib3==1.25.9
-'''
+```
