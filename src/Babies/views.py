@@ -7,7 +7,7 @@ from guardian.shortcuts import assign_perm
 from Events.models import Event
 from Events.serializers import EventSerializer
 
-
+#Views and auth is done
 from Babies.models import Baby
 from Babies.serializers import BabySerializer
 
